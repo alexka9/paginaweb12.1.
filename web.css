@@ -1,0 +1,89 @@
+.row{
+   height: 100px;
+   clear:both 
+}
+#especial{
+   font-size: xx-large;
+}
+.column-100{
+   width: 100%;
+   float: center;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#row1{
+   width: 100%;
+   height: 100%;
+   background-color: rgba(255, 0, 255, 0.038);
+}
+.column-50{
+   width: 50%;
+   float: left; 
+   font-size: large;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.column-img{
+   width: 50%;
+   float: right;
+}
+#row2{
+   width: 100%;
+   height: 100%;
+   background-color: rgba(255, 166, 0, 0.048);
+}
+.column-502{
+   width: 50%;
+   float: right; 
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.titulo{
+   float: left;
+}
+.column-img2{
+   width: 50%;
+   float: left;
+} 
+#row3{
+   width: 100%;
+   height: 100%;
+   background-color: rgba(6, 249, 18, 0.062);
+}
+.column-503{
+   width: 50%;
+   float: left;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.column-img3{
+   width: 50%;
+   float: right;
+}
+.img-rounded{
+   border-radius: 2.9%;
+}   */
+.column-1002{
+   width: 100%;
+   float: justify;
+}
+#row4{
+   height: 100px;
+   clear:both 
+}
+.column-1002{
+   height: 100%;
+   float: center;
+   font-size: x-small;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   background-color: black;
+}
+.column33{
+   font-size: small;
+   padding: 15px;
+   width: 23%;
+   float: left
+}
+#row5{
+   width: 100%;
+   height: 100%;
+   background-color: rgb(0, 0, 0);
+   color: white;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
